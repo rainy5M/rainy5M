@@ -15,6 +15,4 @@ About me:
 - Milky RZ
 - Streets RZ
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rainy5M)](https://github.com/anuraghazra/github-readme-stats)
-
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rainy5M&show_icons=true&theme=dark)
